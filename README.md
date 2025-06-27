@@ -1,3 +1,5 @@
+DEPLOYED ON -  https://code-review-frontend-dyqx.onrender.com
+
 To run the Frontend part run- npm run dev
 
 To run the Backend part run - npx nodemon
