@@ -1,4 +1,4 @@
-DEPLOYED ON -  https://code-review-frontend-dyqx.onrender.com
+LIVE DEPLOYED ON -  https://code-review-frontend-dyqx.onrender.com
 
 To run the Frontend part locally - npm run dev
 
